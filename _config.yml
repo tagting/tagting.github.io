@@ -1,11 +1,11 @@
 # Site settings
-author: Ting Ting Zheng
-title: 
+author: Ting
+title: Journeys of a Wanderlust Heroine
 header-img: img/home-bg.png
 email: ttzhenng@gmail.com
-copyright_name: Ting Ting Zheng
+copyright_name: Ting
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Many steps become a mile, and many miles add up to an adventure
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tagting
